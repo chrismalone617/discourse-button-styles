@@ -103,6 +103,17 @@ editor_button_text_hover:
   default: ''
   description: 'Example: #FF0000 or red'
 
+create_topic_button:
+  default: ''
+  description: 'Example entry: #FF0000 or red'
+
+create_topic_button_text:
+  default: ''
+  description: 'Text color on Create Topic Button. Example entry: #FF0000 or red <br/><br/><hr/><h2>Header Elements</h2>'
+
+header_background_image:
+  default: ''
+  description: 'Insert the url for the image background. The default position is bottom, no-repeat.'
 
 
 

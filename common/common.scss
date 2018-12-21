@@ -370,3 +370,15 @@ button.cancel, .btn-danger {
   }
 }
 
+// Create Button
+button#create-topic.btn {
+  background: $create-topic-button;
+  color: $create-topic-button-text;
+}
+
+// Header Background Image
+header.d-header {
+  background-image: url($header-background-image);
+  background-position: bottom;
+  background-repeat: no-repeat;
+}
